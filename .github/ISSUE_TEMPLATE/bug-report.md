@@ -13,6 +13,10 @@ assignees: ''
 <!-- Which server does the bug apply to? Factions? Skyblock? Prison? Global? -->
 Skyblock
 
+### Rundown
+
+This issue shows me negative values
+
 ### Steps to reproduce
 <!-- Please list the steps you took to produce this bug, so we can also produce it too. -->
 
